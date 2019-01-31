@@ -1,0 +1,10 @@
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\bin\Debug\HWPatterns4_Bridge.exe.config
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\bin\Debug\HWPatterns4_Bridge.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\bin\Debug\HWPatterns4_Bridge.pdb
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\obj\Debug\HWPatterns4_Bridge.csprojAssemblyReference.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\obj\Debug\HWPatterns4_Bridge.Form1.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\obj\Debug\HWPatterns4_Bridge.Properties.Resources.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\obj\Debug\HWPatterns4_Bridge.csproj.GenerateResource.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\obj\Debug\HWPatterns4_Bridge.csproj.CoreCompileInputs.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\obj\Debug\HWPatterns4_Bridge.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns4_Bridge\obj\Debug\HWPatterns4_Bridge.pdb

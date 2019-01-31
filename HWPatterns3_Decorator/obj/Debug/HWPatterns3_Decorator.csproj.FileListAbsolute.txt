@@ -1,0 +1,10 @@
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\obj\Debug\HWPatterns3_Decorator.csprojAssemblyReference.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\obj\Debug\HWPatterns3_Decorator.Properties.Resources.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\obj\Debug\HWPatterns3_Decorator.csproj.GenerateResource.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\obj\Debug\HWPatterns3_Decorator.csproj.CoreCompileInputs.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\bin\Debug\HWPatterns3_Decorator.exe.config
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\bin\Debug\HWPatterns3_Decorator.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\bin\Debug\HWPatterns3_Decorator.pdb
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\obj\Debug\HWPatterns3_Decorator.Form1.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\obj\Debug\HWPatterns3_Decorator.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns3_Decorator\obj\Debug\HWPatterns3_Decorator.pdb

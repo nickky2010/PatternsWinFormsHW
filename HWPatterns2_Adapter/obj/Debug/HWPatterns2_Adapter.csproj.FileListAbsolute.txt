@@ -1,0 +1,10 @@
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\bin\Debug\HWPatterns2_Adapter.exe.config
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\bin\Debug\HWPatterns2_Adapter.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\bin\Debug\HWPatterns2_Adapter.pdb
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\obj\Debug\HWPatterns2_Adapter.csprojAssemblyReference.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\obj\Debug\HWPatterns2_Adapter.Form1.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\obj\Debug\HWPatterns2_Adapter.Properties.Resources.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\obj\Debug\HWPatterns2_Adapter.csproj.GenerateResource.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\obj\Debug\HWPatterns2_Adapter.csproj.CoreCompileInputs.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\obj\Debug\HWPatterns2_Adapter.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns2_Adapter\obj\Debug\HWPatterns2_Adapter.pdb

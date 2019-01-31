@@ -1,0 +1,9 @@
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\bin\Debug\HWPatterns1_AbstractFactory.exe.config
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\bin\Debug\HWPatterns1_AbstractFactory.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\bin\Debug\HWPatterns1_AbstractFactory.pdb
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\obj\Debug\HWPatterns1_AbstractFactory.Form1.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\obj\Debug\HWPatterns1_AbstractFactory.Properties.Resources.resources
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\obj\Debug\HWPatterns1_AbstractFactory.csproj.GenerateResource.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\obj\Debug\HWPatterns1_AbstractFactory.csproj.CoreCompileInputs.cache
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\obj\Debug\HWPatterns1_AbstractFactory.exe
+A:\Учеба\Паттерны\HWPatterns\HWPatterns1_AbstractFactory\obj\Debug\HWPatterns1_AbstractFactory.pdb
